@@ -1,0 +1,1 @@
+reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor" /v AutoRun /d ""%cd%\cmdrc.bat""
